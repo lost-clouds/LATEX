@@ -1,0 +1,61 @@
+\babel@toc {nil}{}
+\contentsline {chapter}{\numberline {第一章\hspace {.3em}}论绪}{1}{chapter.3}%
+\contentsline {section}{\numberline {1.1}写在前面}{1}{section.4}%
+\contentsline {section}{\numberline {1.2}概述}{1}{section.5}%
+\contentsline {section}{\numberline {1.3}内容要求}{1}{section.6}%
+\contentsline {subsection}{\numberline {1.3.1}封面}{2}{subsection.8}%
+\contentsline {subsection}{\numberline {1.3.2}题名页}{2}{subsection.9}%
+\contentsline {subsection}{\numberline {1.3.3}独创性声明和使用授权书}{3}{subsection.10}%
+\contentsline {subsection}{\numberline {1.3.4}摘要}{3}{subsection.11}%
+\contentsline {subsection}{\numberline {1.3.5}目录}{3}{subsection.12}%
+\contentsline {subsection}{\numberline {1.3.6}图表清单及主要符号表}{3}{subsection.13}%
+\contentsline {subsection}{\numberline {1.3.7}主体部分}{4}{subsection.14}%
+\contentsline {subsection}{\numberline {1.3.8}参考文献}{4}{subsection.15}%
+\contentsline {subsection}{\numberline {1.3.9}附录}{4}{subsection.16}%
+\contentsline {subsection}{\numberline {1.3.10}成果}{4}{subsection.17}%
+\contentsline {subsection}{\numberline {1.3.11}致谢}{5}{subsection.18}%
+\contentsline {subsection}{\numberline {1.3.12}作者简介}{5}{subsection.19}%
+\contentsline {chapter}{\numberline {第二章\hspace {.3em}}说明}{6}{chapter.20}%
+\contentsline {section}{\numberline {2.1}宏包使用}{6}{section.21}%
+\contentsline {section}{\numberline {2.2}选项设置}{7}{section.23}%
+\contentsline {section}{\numberline {2.3}章节撰写}{7}{section.24}%
+\contentsline {section}{\numberline {2.4}注意事项}{8}{section.25}%
+\contentsline {section}{\numberline {2.5}ToDo}{8}{section.26}%
+\contentsline {section}{\numberline {2.6}意见及问题反馈}{9}{section.27}%
+\contentsline {chapter}{\numberline {第三章\hspace {.3em}}示例}{10}{chapter.28}%
+\contentsline {section}{\numberline {3.1}参考文献引用}{10}{section.29}%
+\contentsline {subsection}{\numberline {3.1.1}数字标注}{10}{subsection.30}%
+\contentsline {subsection}{\numberline {3.1.2}数字标注-上标形式}{10}{subsection.31}%
+\contentsline {subsection}{\numberline {3.1.3}著者-出版年制标}{11}{subsection.32}%
+\contentsline {subsection}{\numberline {3.1.4}其他形式的标注}{11}{subsection.33}%
+\contentsline {section}{\numberline {3.2}浮动体}{12}{section.34}%
+\contentsline {section}{\numberline {3.3}算法环境}{12}{section.35}%
+\contentsline {subsection}{\numberline {3.3.1}三线表}{12}{subsection.48}%
+\contentsline {section}{\numberline {3.4}长表格}{14}{section.51}%
+\contentsline {section}{\numberline {3.5}插图}{14}{section.52}%
+\babel@toc {english}{}
+\babel@toc {nil}{}
+\contentsline {section}{\numberline {3.6}数学环境}{15}{section.54}%
+\contentsline {subsection}{\numberline {3.6.1}数学符号}{15}{subsection.55}%
+\contentsline {subsection}{\numberline {3.6.2}定理、引理和证明}{15}{subsection.59}%
+\contentsline {subsection}{\numberline {3.6.3}自定义}{17}{subsection.77}%
+\contentsline {chapter}{\numberline {第四章\hspace {.3em}}示例}{19}{chapter.81}%
+\contentsline {section}{\numberline {4.1}参考文献引用}{19}{section.82}%
+\contentsline {subsection}{\numberline {4.1.1}数字标注}{19}{subsection.83}%
+\contentsline {subsection}{\numberline {4.1.2}数字标注-上标形式}{19}{subsection.84}%
+\contentsline {subsection}{\numberline {4.1.3}著者-出版年制标}{20}{subsection.85}%
+\contentsline {subsection}{\numberline {4.1.4}其他形式的标注}{20}{subsection.86}%
+\contentsline {section}{\numberline {4.2}浮动体}{21}{section.87}%
+\contentsline {section}{\numberline {4.3}算法环境}{21}{section.88}%
+\contentsline {subsection}{\numberline {4.3.1}三线表}{21}{subsection.101}%
+\contentsline {section}{\numberline {4.4}长表格}{23}{section.104}%
+\contentsline {section}{\numberline {4.5}插图}{23}{section.105}%
+\babel@toc {english}{}
+\babel@toc {nil}{}
+\contentsline {section}{\numberline {4.6}数学环境}{24}{section.107}%
+\contentsline {subsection}{\numberline {4.6.1}数学符号}{24}{subsection.108}%
+\contentsline {subsection}{\numberline {4.6.2}定理、引理和证明}{24}{subsection.112}%
+\contentsline {subsection}{\numberline {4.6.3}自定义}{26}{subsection.130}%
+\contentsline {chapter}{参考文献}{28}{section*.134}%
+\contentsline {chapter}{致~~~~谢}{29}{appendix*.140}%
+\contentsfinish 

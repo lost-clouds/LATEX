@@ -1,0 +1,1972 @@
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.11.17)  31 MAY 2023 10:46
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**e:/mypaper/湖北理工学院毕业设计模板/Template
+(e:/mypaper/湖北理工学院毕业设计模板/Template.tex
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-02-18> (./hbpu.cls
+
+LaTeX Warning: You have requested document class `hbpu',
+               but the document class provides `bbk'.
+
+Document Class: bbk 2023/05/29 HBPU thesis clas 
+This is LaTeX template hbpu. (based on CTeX) 05-30-2023
+(e:/TeX Live2021/texlive/2021/texmf-dist/tex/latex/ctex/ctexbook.cls (e:/TeX Live2021/texlive/2021/texmf-dist/tex/latex/ctex/config/ctexbackend.cfg
+File: ctexbackend.cfg 2021/03/14 v2.5.6 Backend configuration file (CTEX)
+) (e:/TeX Live2021/texlive/2021/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2021-02-18 L3 programming layer (loader) 
+ (e:/TeX Live2021/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
+File: l3backend-xetex.def 2021-03-18 L3 backend support: XeTeX
+ (|extractbb --version)
+\c__kernel_sys_dvipdfmx_version_int=\count175
+\l__color_backend_stack_int=\count176
+\g__color_backend_stack_int=\count177
+\g__graphics_track_int=\count178
+\l__pdf_internal_box=\box47
+\g__pdf_backend_object_int=\count179
+\g__pdf_backend_annotation_int=\count180
+\g__pdf_backend_link_int=\count181
+))
+Document Class: ctexbook 2021/03/14 v2.5.6 Chinese adapter for class book (CTEX)
+(e:/TeX Live2021/texlive/2021/texmf-dist/tex/latex/l3packages/xparse/xparse.sty (e:/TeX Live2021/texlive/2021/texmf-dist/tex/latex/l3packages/xparse/xparse-2020-10-01.sty (e:/TeX Live2021/texlive/2021/texmf-dist/tex/latex/l3packages/xparse/xparse-generic.tex))) (e:/TeX Live2021/texlive/2021/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+Package: l3keys2e 2021-03-12 LaTeX2e option processing using LaTeX3 keys
+) (e:/TeX Live2021/texlive/2021/texmf-dist/tex/latex/ctex/ctexhook.sty
+Package: ctexhook 2021/03/14 v2.5.6 Document and package hooks (CTEX)
+) (e:/TeX Live2021/texlive/2021/texmf-dist/tex/latex/ctex/ctexpatch.sty
+Package: ctexpatch 2021/03/14 v2.5.6 Patching commands (CTEX)
+) (e:/TeX Live2021/texlive/2021/texmf-dist/tex/latex/base/fix-cm.sty
+Package: fix-cm 2015/01/14 v1.1t fixes to LaTeX
+ (e:/TeX Live2021/texlive/2021/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding TS1 on input line 47.
+)) (e:/TeX Live2021/texlive/2021/texmf-dist/tex/latex/everysel/everysel.sty
+Package: everysel 2021/01/20 v2.1 EverySelectfont Package (MS)
+ (e:/TeX Live2021/texlive/2021/texmf-dist/tex/latex/everysel/everysel-2011-10-28.sty))
+\l__ctex_tmp_int=\count182
+\l__ctex_tmp_box=\box48
+\l__ctex_tmp_dim=\dimen138
+\g__ctex_section_depth_int=\count183
+\g__ctex_font_size_int=\count184
+ (e:/TeX Live2021/texlive/2021/texmf-dist/tex/latex/ctex/config/ctexopts.cfg
+File: ctexopts.cfg 2021/03/14 v2.5.6 Option configuration file (CTEX)
+) (e:/TeX Live2021/texlive/2021/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2020/04/10 v1.4m Standard LaTeX document class
+(e:/TeX Live2021/texlive/2021/texmf-dist/tex/latex/base/bk12.clo
+File: bk12.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@chapter=\count186
+\c@section=\count187
+\c@subsection=\count188
+\c@subsubsection=\count189
+\c@paragraph=\count190
+\c@subparagraph=\count191
+\c@figure=\count192
+\c@table=\count193
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen139
+) (e:/TeX Live2021/texlive/2021/texmf-dist/tex/latex/ctex/engine/ctex-engine-xetex.def
+File: ctex-engine-xetex.def 2021/03/14 v2.5.6 XeLaTeX adapter (CTEX)
+ (e:/TeX Live2021/texlive/2021/texmf-dist/tex/xelatex/xecjk/xeCJK.sty
+Package: xeCJK 2020/10/19 v3.8.6 Typesetting CJK scripts with XeLaTeX
+ (e:/TeX Live2021/texlive/2021/texmf-dist/tex/latex/l3packages/xtemplate/xtemplate.sty
+Package: xtemplate 2021-03-12 L3 Experimental prototype document functions
+\l__xtemplate_tmp_dim=\dimen140
+\l__xtemplate_tmp_int=\count194
+\l__xtemplate_tmp_muskip=\muskip16
+\l__xtemplate_tmp_skip=\skip49
+)
+\l__xeCJK_tmp_int=\count195
+\l__xeCJK_tmp_box=\box49
+\l__xeCJK_tmp_dim=\dimen141
+\l__xeCJK_tmp_skip=\skip50
+\g__xeCJK_space_factor_int=\count196
+\l__xeCJK_begin_int=\count197
+\l__xeCJK_end_int=\count198
+\c__xeCJK_CJK_class_int=\XeTeXcharclass1
+\c__xeCJK_FullLeft_class_int=\XeTeXcharclass2
+\c__xeCJK_FullRight_class_int=\XeTeXcharclass3
+\c__xeCJK_HalfLeft_class_int=\XeTeXcharclass4
+\c__xeCJK_HalfRight_class_int=\XeTeXcharclass5
+\c__xeCJK_NormalSpace_class_int=\XeTeXcharclass6
+\c__xeCJK_CM_class_int=\XeTeXcharclass7
+\c__xeCJK_HangulJamo_class_int=\XeTeXcharclass8
+\l__xeCJK_last_skip=\skip51
+\g__xeCJK_node_int=\count199
+\c__xeCJK_CJK_node_dim=\dimen142
+\c__xeCJK_CJK-space_node_dim=\dimen143
+\c__xeCJK_default_node_dim=\dimen144
+\c__xeCJK_default-space_node_dim=\dimen145
+\c__xeCJK_CJK-widow_node_dim=\dimen146
+\c__xeCJK_normalspace_node_dim=\dimen147
+\l__xeCJK_ccglue_skip=\skip52
+\l__xeCJK_ecglue_skip=\skip53
+\l__xeCJK_punct_kern_skip=\skip54
+\l__xeCJK_last_penalty_int=\count266
+\l__xeCJK_last_bound_dim=\dimen148
+\l__xeCJK_last_kern_dim=\dimen149
+\l__xeCJK_widow_penalty_int=\count267
+
+Package xtemplate Info: Declaring object type 'xeCJK/punctuation' taking 0
+(xtemplate)             argument(s) on line 2341.
+
+\l__xeCJK_fixed_punct_width_dim=\dimen150
+\l__xeCJK_mixed_punct_width_dim=\dimen151
+\l__xeCJK_middle_punct_width_dim=\dimen152
+\l__xeCJK_fixed_margin_width_dim=\dimen153
+\l__xeCJK_mixed_margin_width_dim=\dimen154
+\l__xeCJK_middle_margin_width_dim=\dimen155
+\l__xeCJK_bound_punct_width_dim=\dimen156
+\l__xeCJK_bound_margin_width_dim=\dimen157
+\l__xeCJK_margin_minimum_dim=\dimen158
+\l__xeCJK_kerning_total_width_dim=\dimen159
+\l__xeCJK_same_align_margin_dim=\dimen160
+\l__xeCJK_different_align_margin_dim=\dimen161
+\l__xeCJK_kerning_margin_width_dim=\dimen162
+\l__xeCJK_kerning_margin_minimum_dim=\dimen163
+\l__xeCJK_bound_dim=\dimen164
+\l__xeCJK_reverse_bound_dim=\dimen165
+\l__xeCJK_margin_dim=\dimen166
+\l__xeCJK_minimum_bound_dim=\dimen167
+\l__xeCJK_kerning_margin_dim=\dimen168
+\g__xeCJK_family_int=\count268
+\l__xeCJK_fam_int=\count269
+\g__xeCJK_fam_allocation_int=\count270
+\l__xeCJK_verb_case_int=\count271
+\l__xeCJK_verb_exspace_skip=\skip55
+ (e:/TeX Live2021/texlive/2021/texmf-dist/tex/latex/fontspec/fontspec.sty
+Package: fontspec 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTeX
+ (e:/TeX Live2021/texlive/2021/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+Package: fontspec-xetex 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTeX
+\l__fontspec_script_int=\count272
+\l__fontspec_language_int=\count273
+\l__fontspec_strnum_int=\count274
+\l__fontspec_tmp_int=\count275
+\l__fontspec_tmpa_int=\count276
+\l__fontspec_tmpb_int=\count277
+\l__fontspec_tmpc_int=\count278
+\l__fontspec_em_int=\count279
+\l__fontspec_emdef_int=\count280
+\l__fontspec_strong_int=\count281
+\l__fontspec_strongdef_int=\count282
+\l__fontspec_tmpa_dim=\dimen169
+\l__fontspec_tmpb_dim=\dimen170
+\l__fontspec_tmpc_dim=\dimen171
+ (e:/TeX Live2021/texlive/2021/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
+) (e:/TeX Live2021/texlive/2021/texmf-dist/tex/latex/fontspec/fontspec.cfg))) (e:/TeX Live2021/texlive/2021/texmf-dist/tex/xelatex/xecjk/xeCJK.cfg
+File: xeCJK.cfg 2020/10/19 v3.8.6 Configuration file for xeCJK package
+))
+\ccwd=\dimen172
+\l__ctex_ccglue_skip=\skip56
+)
+\l__ctex_ziju_dim=\dimen173
+ (e:/TeX Live2021/texlive/2021/texmf-dist/tex/latex/zhnumber/zhnumber.sty
+Package: zhnumber 2020/05/01 v2.8 Typesetting numbers with Chinese glyphs
+\l__zhnum_scale_int=\count283
+ (e:/TeX Live2021/texlive/2021/texmf-dist/tex/latex/zhnumber/zhnumber-utf8.cfg
+File: zhnumber-utf8.cfg 2020/05/01 v2.8 Chinese numerals with UTF8 encoding
+))
+\l__ctex_heading_skip=\skip57
+ (e:/TeX Live2021/texlive/2021/texmf-dist/tex/latex/ctex/scheme/ctex-scheme-chinese-book.def
+File: ctex-scheme-chinese-book.def 2021/03/14 v2.5.6 Chinese scheme for book (CTEX)
+ (e:/TeX Live2021/texlive/2021/texmf-dist/tex/latex/ctex/config/ctex-name-utf8.cfg
+File: ctex-name-utf8.cfg 2021/03/14 v2.5.6 Caption with encoding UTF-8 (CTEX)
+)) (e:/TeX Live2021/texlive/2021/texmf-dist/tex/latex/ctex/ctex-cs4size.clo
+File: ctex-cs4size.clo 2021/03/14 v2.5.6 cs4size option (CTEX)
+) (e:/TeX Live2021/texlive/2021/texmf-dist/tex/latex/ctex/fontset/ctex-fontset-fandol.def
+File: ctex-fontset-fandol.def 2021/03/14 v2.5.6 Fandol fonts definition (CTEX)
+
+
+Package fontspec Warning: Font "FandolSong-Regular" does not contain requested
+(fontspec)                Script "CJK".
+
+
+Package fontspec Info: Font family 'FandolSong-Regular(0)' created for font
+(fontspec)             'FandolSong-Regular' with options
+(fontspec)             [Script={CJK},Extension={.otf},BoldFont={FandolSong-Bold},ItalicFont={FandolKai-Regular}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[FandolSong-Regular.otf]/OT:language=dflt;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"[FandolSong-Bold.otf]/OT:language=dflt;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"[FandolKai-Regular.otf]/OT:language=dflt;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
+
+)) (e:/TeX Live2021/texlive/2021/texmf-dist/tex/latex/ctex/config/ctex.cfg
+File: ctex.cfg 2021/03/14 v2.5.6 Configuration file (CTEX)
+) (e:/TeX Live2021/texlive/2021/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+) (e:/TeX Live2021/texlive/2021/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count284
+) (e:/TeX Live2021/texlive/2021/texmf-dist/tex/latex/titlesec/titletoc.sty
+Package: titletoc 2019/10/16 v2.13 TOC entries
+\ttl@leftsep=\dimen174
+) (e:/TeX Live2021/texlive/2021/texmf-dist/tex/latex/carlisle/remreset.sty
+
+Package remreset Warning: The remreset package is obsolete:
+(remreset)                \@removefromreset is defined.
+
+) (e:/TeX Live2021/texlive/2021/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (e:/TeX Live2021/texlive/2021/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+) (e:/TeX Live2021/texlive/2021/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+ (e:/TeX Live2021/texlive/2021/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count285
+\Gm@cntv=\count286
+\c@Gm@tempcnt=\count287
+\Gm@bindingoffset=\dimen175
+\Gm@wd@mp=\dimen176
+\Gm@odd@mp=\dimen177
+\Gm@even@mp=\dimen178
+\Gm@layoutwidth=\dimen179
+\Gm@layoutheight=\dimen180
+\Gm@layouthoffset=\dimen181
+\Gm@layoutvoffset=\dimen182
+\Gm@dimlist=\toks16
+) (e:/TeX Live2021/texlive/2021/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2021/01/28 v4.0.1 Extensive control of page headers and footers
+\f@nch@headwidth=\skip58
+\f@nch@O@elh=\skip59
+\f@nch@O@erh=\skip60
+\f@nch@O@olh=\skip61
+\f@nch@O@orh=\skip62
+\f@nch@O@elf=\skip63
+\f@nch@O@erf=\skip64
+\f@nch@O@olf=\skip65
+\f@nch@O@orf=\skip66
+) (e:/TeX Live2021/texlive/2021/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+) (e:/TeX Live2021/texlive/2021/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count288
+\float@exts=\toks17
+\float@box=\box50
+\@float@everytoks=\toks18
+\@floatcapt=\box51
+) (e:/TeX Live2021/texlive/2021/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+ (e:/TeX Live2021/texlive/2021/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+ (e:/TeX Live2021/texlive/2021/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) (e:/TeX Live2021/texlive/2021/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 105.
+ (e:/TeX Live2021/texlive/2021/texmf-dist/tex/latex/graphics-def/xetex.def
+File: xetex.def 2021/03/18 v5.0k Graphics/color driver for xetex
+))
+\Gin@req@height=\dimen183
+\Gin@req@width=\dimen184
+) (e:/TeX Live2021/texlive/2021/texmf-dist/tex/latex/subfigure/subfigure.sty
+Package: subfigure 2002/03/15 v2.1.5 subfigure package
+\subfigtopskip=\skip67
+\subfigcapskip=\skip68
+\subfigcaptopadj=\dimen185
+\subfigbottomskip=\skip69
+\subfigcapmargin=\dimen186
+\subfiglabelskip=\skip70
+\c@subfigure=\count289
+\c@lofdepth=\count290
+\c@subtable=\count291
+\c@lotdepth=\count292
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(e:/TeX Live2021/texlive/2021/texmf-dist/tex/latex/subfigure/subfigure.cfg)
+\subfig@top=\skip71
+\subfig@bottom=\skip72
+) (e:/TeX Live2021/texlive/2021/texmf-dist/tex/latex/epstopdf-pkg/epstopdf.sty
+Package: epstopdf 2020-01-24 v2.11 Conversion with epstopdf on the fly (HO)
+ (e:/TeX Live2021/texlive/2021/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+) (e:/TeX Live2021/texlive/2021/texmf-dist/tex/latex/grfext/grfext.sty
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+ (e:/TeX Live2021/texlive/2021/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)) (e:/TeX Live2021/texlive/2021/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+ (e:/TeX Live2021/texlive/2021/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+) (e:/TeX Live2021/texlive/2021/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)) (e:/TeX Live2021/texlive/2021/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode not found.
+) (e:/TeX Live2021/texlive/2021/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+
+
+Package epstopdf Warning: Drivers other than `pdftex' and `luatex' are not supported.
+
+)) (e:/TeX Live2021/texlive/2021/texmf-dist/tex/latex/tools/array.sty
+Package: array 2020/10/01 v2.5c Tabular extension package (FMi)
+\col@sep=\dimen187
+\ar@mcellbox=\box52
+\extrarowheight=\dimen188
+\NC@list=\toks19
+\extratabsurround=\skip73
+\backup@length=\skip74
+\ar@cellbox=\box53
+) (e:/TeX Live2021/texlive/2021/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip75
+\enit@outerparindent=\dimen189
+\enit@toks=\toks20
+\enit@inbox=\box54
+\enit@count@id=\count293
+\enitdp@description=\count294
+) (e:/TeX Live2021/texlive/2021/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen190
+\lightrulewidth=\dimen191
+\cmidrulewidth=\dimen192
+\belowrulesep=\dimen193
+\belowbottomsep=\dimen194
+\aboverulesep=\dimen195
+\abovetopsep=\dimen196
+\cmidrulesep=\dimen197
+\cmidrulekern=\dimen198
+\defaultaddspace=\dimen199
+\@cmidla=\count295
+\@cmidlb=\count296
+\@aboverulesep=\dimen256
+\@belowrulesep=\dimen257
+\@thisruleclass=\count297
+\@lastruleclass=\count298
+\@thisrulewidth=\dimen258
+) (e:/TeX Live2021/texlive/2021/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2020/01/07 v4.13 Multi-page Table package (DPC)
+\LTleft=\skip76
+\LTright=\skip77
+\LTpre=\skip78
+\LTpost=\skip79
+\LTchunksize=\count299
+\LTcapwidth=\dimen259
+\LT@head=\box55
+\LT@firsthead=\box56
+\LT@foot=\box57
+\LT@lastfoot=\box58
+\LT@cols=\count300
+\LT@rows=\count301
+\c@LT@tables=\count302
+\c@LT@chunks=\count303
+\LT@p@ftn=\toks21
+) (e:/TeX Live2021/texlive/2021/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
+\multirow@colwidth=\skip80
+\multirow@cntb=\count304
+\multirow@dima=\skip81
+\bigstrutjot=\dimen260
+) (e:/TeX Live2021/texlive/2021/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+ (e:/TeX Live2021/texlive/2021/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+\captionmargin=\dimen261
+\captionmargin@=\dimen262
+\captionwidth=\dimen263
+\caption@tempdima=\dimen264
+\caption@indent=\dimen265
+\caption@parindent=\dimen266
+\caption@hangindent=\dimen267
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count305
+\c@continuedfloat=\count306
+Package caption Info: float package is loaded.
+Package caption Info: longtable package is loaded.
+ (e:/TeX Live2021/texlive/2021/texmf-dist/tex/latex/caption/ltcaption.sty
+Package: ltcaption 2020/05/30 v1.4b longtable captions (AR)
+)
+Package caption Info: subfigure package is loaded.
+) (e:/TeX Live2021/texlive/2021/texmf-dist/tex/latex/caption/bicaption.sty
+Package: bicaption 2020/10/25 v1.3 Bilingual Captions (AR)
+\bicaption@lang=\count307
+Package bicaption Info: main language is not set.
+) (e:/TeX Live2021/texlive/2021/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count308
+\lst@gtempboxa=\box59
+\lst@token=\toks22
+\lst@length=\count309
+\lst@currlwidth=\dimen268
+\lst@column=\count310
+\lst@pos=\count311
+\lst@lostspace=\dimen269
+\lst@width=\dimen270
+\lst@newlines=\count312
+\lst@lineno=\count313
+\lst@maxwidth=\dimen271
+ (e:/TeX Live2021/texlive/2021/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+\c@lstnumber=\count314
+\lst@skipnumbers=\count315
+\lst@framebox=\box60
+) (e:/TeX Live2021/texlive/2021/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2020/03/24 1.8d listings configuration
+))
+Package: listings 2020/03/24 1.8d (Carsten Heinz)
+ (e:/TeX Live2021/texlive/2021/texmf-dist/tex/xelatex/xecjk/xeCJK-listings.sty
+Package: xeCJK-listings 2020/10/19 v3.8.6 xeCJK patch file for listings
+\l__xeCJK_listings_max_char_int=\count316
+\l__xeCJK_listings_flag_int=\count317
+) (e:/TeX Live2021/texlive/2021/texmf-dist/tex/latex/algorithm2e/algorithm2e.sty
+Invalid UTF-8 byte or sequence at line 284 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 299 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 550 replaced by U+FFFD.
+Package: algorithm2e 2017/07/18 v5.2 algorithms environments
+\c@AlgoLine=\count318
+\algocf@hangindent=\skip82
+ (e:/TeX Live2021/texlive/2021/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
+Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
+\c@checkoddpage=\count319
+) (e:/TeX Live2021/texlive/2021/texmf-dist/tex/latex/tools/xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+) (e:/TeX Live2021/texlive/2021/texmf-dist/tex/latex/relsize/relsize.sty
+Package: relsize 2013/03/29 ver 4.1
+)
+\skiptotal=\skip83
+\skiplinenumber=\skip84
+\skiprule=\skip85
+\skiphlne=\skip86
+\skiptext=\skip87
+\skiplength=\skip88
+\algomargin=\skip89
+\skipalgocfslide=\skip90
+\algowidth=\dimen272
+\inoutsize=\dimen273
+\inoutindent=\dimen274
+\interspacetitleruled=\dimen275
+\interspacealgoruled=\dimen276
+\interspacetitleboxruled=\dimen277
+\algocf@ruledwidth=\skip91
+\algocf@inoutbox=\box61
+\algocf@inputbox=\box62
+\AlCapSkip=\skip92
+\AlCapHSkip=\skip93
+\algoskipindent=\skip94
+\algocf@nlbox=\box63
+\algocf@hangingbox=\box64
+\algocf@untilbox=\box65
+\algocf@skipuntil=\skip95
+\algocf@capbox=\box66
+\algocf@lcaptionbox=\skip96
+\algoheightruledefault=\skip97
+\algoheightrule=\skip98
+\algotitleheightruledefault=\skip99
+\algotitleheightrule=\skip100
+\c@algocfline=\count320
+\c@algocfproc=\count321
+\c@algocf=\count322
+\algocf@algoframe=\box67
+\algocf@algobox=\box68
+) (e:/TeX Live2021/texlive/2021/texmf-dist/tex/latex/newfloat/newfloat.sty
+Package: newfloat 2019/09/02 v1.1l Defining new floating environments (AR)
+Package newfloat Info: Unsupported document class, or \@chapter 
+(newfloat)             was already redefined by another package.
+Package newfloat Info: \@chapter = macro:[#1]#2->\algocf@original@chapter [#1]{#2}\addtocontents {loa}{\protect \addvspace {10\p@ }}.
+Package newfloat Info: \Hy@org@chapter = undefined.
+) (e:/TeX Live2021/texlive/2021/texmf-dist/tex/latex/sttools/stfloats.sty
+Package: stfloats 2017/03/27 v3.3 Improve float mechanism and baselineskip settings
+\@dblbotnum=\count323
+\c@dblbotnumber=\count324
+) (e:/TeX Live2021/texlive/2021/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2020/09/23 v2.17i AMS math features
+\@mathmargin=\skip101
+
+For additional information on amsmath, use the `?' option.
+(e:/TeX Live2021/texlive/2021/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+ (e:/TeX Live2021/texlive/2021/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks23
+\ex@=\dimen278
+)) (e:/TeX Live2021/texlive/2021/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen279
+) (e:/TeX Live2021/texlive/2021/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count325
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count326
+\leftroot@=\count327
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count328
+\DOTSCASE@=\count329
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box69
+\strutbox@=\box70
+\big@size=\dimen280
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count330
+\c@MaxMatrixCols=\count331
+\dotsspace@=\muskip17
+\c@parentequation=\count332
+\dspbrk@lvl=\count333
+\tag@help=\toks24
+\row@=\count334
+\column@=\count335
+\maxfields@=\count336
+\andhelp@=\toks25
+\eqnshift@=\dimen281
+\alignsep@=\dimen282
+\tagshift@=\dimen283
+\tagwidth@=\dimen284
+\totwidth@=\dimen285
+\lineht@=\dimen286
+\@envbody=\toks26
+\multlinegap=\skip102
+\multlinetaggap=\skip103
+\mathdisplay@stack=\toks27
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
+) (e:/TeX Live2021/texlive/2021/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2020/05/29 v2.20.6
+\thm@style=\toks28
+\thm@bodyfont=\toks29
+\thm@headfont=\toks30
+\thm@notefont=\toks31
+\thm@headpunct=\toks32
+\thm@preskip=\skip104
+\thm@postskip=\skip105
+\thm@headsep=\skip106
+\dth@everypar=\toks33
+) (e:/TeX Live2021/texlive/2021/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2021/03/24 3.56 The Babel package
+ (e:/TeX Live2021/texlive/2021/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2021/03/24 3.56 Babel common definitions
+\babel@savecnt=\count337
+\U@D=\dimen287
+\l@babelnohyphens=\language6
+ (e:/TeX Live2021/texlive/2021/texmf-dist/tex/generic/babel/xebabel.def (e:/TeX Live2021/texlive/2021/texmf-dist/tex/generic/babel/txtbabel.def))
+\bbl@readstream=\read2
+)
+\bbl@dirlevel=\count338
+Package babel Info: You haven't specified a language. I'll use 'nil'
+(babel)             as the main language. Reported on input line 1160.
+ (e:/TeX Live2021/texlive/2021/texmf-dist/tex/generic/babel/nil.ldf
+Language: nil 2021/03/24 3.56 Nil language
+\l@nil=\language7
+)) (e:/TeX Live2021/texlive/2021/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2021-02-27 v7.00k Hypertext links for LaTeX
+ (e:/TeX Live2021/texlive/2021/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+) (e:/TeX Live2021/texlive/2021/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+) (e:/TeX Live2021/texlive/2021/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+) (e:/TeX Live2021/texlive/2021/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+\@linkdim=\dimen288
+\Hy@linkcounter=\count339
+\Hy@pagecounter=\count340
+ (e:/TeX Live2021/texlive/2021/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2021-02-27 v7.00k Hyperref: PDFDocEncoding definition (HO)
+) (e:/TeX Live2021/texlive/2021/texmf-dist/tex/latex/hyperref/hyperref-langpatches.def
+File: hyperref-langpatches.def 2021-02-27 v7.00k Hyperref: patches for babel languages
+) (e:/TeX Live2021/texlive/2021/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+) (e:/TeX Live2021/texlive/2021/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count341
+ (e:/TeX Live2021/texlive/2021/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2021-02-27 v7.00k Hyperref: PDF Unicode definition (HO)
+)
+Package hyperref Info: Option `unicode' set `true' on input line 4073.
+Package hyperref Info: Option `hypertexnames' set `false' on input line 4073.
+Package hyperref Info: Hyper figures OFF on input line 4192.
+Package hyperref Info: Link nesting OFF on input line 4197.
+Package hyperref Info: Hyper index ON on input line 4200.
+Package hyperref Info: Plain pages OFF on input line 4207.
+Package hyperref Info: Backreferencing OFF on input line 4212.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4445.
+\c@Hy@tempcnt=\count342
+ (e:/TeX Live2021/texlive/2021/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip18
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4804.
+\XeTeXLinkMargin=\dimen289
+ (e:/TeX Live2021/texlive/2021/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+ (e:/TeX Live2021/texlive/2021/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
+))
+\Fld@menulength=\count343
+\Field@Width=\dimen290
+\Fld@charsize=\dimen291
+Package hyperref Info: Hyper figures OFF on input line 6075.
+Package hyperref Info: Link nesting OFF on input line 6080.
+Package hyperref Info: Hyper index ON on input line 6083.
+Package hyperref Info: backreferencing OFF on input line 6090.
+Package hyperref Info: Link coloring OFF on input line 6095.
+Package hyperref Info: Link coloring with OCG OFF on input line 6100.
+Package hyperref Info: PDF/A mode OFF on input line 6105.
+LaTeX Info: Redefining \ref on input line 6145.
+LaTeX Info: Redefining \pageref on input line 6149.
+ (e:/TeX Live2021/texlive/2021/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2020/08/17 v1.0a Emulation of the original atbegshi package
+with kernel methods
+)
+\Hy@abspage=\count344
+\c@Item=\count345
+\c@Hfootnote=\count346
+)
+Package hyperref Info: Driver (autodetected): hxetex.
+ (e:/TeX Live2021/texlive/2021/texmf-dist/tex/latex/hyperref/hxetex.def
+File: hxetex.def 2021-02-27 v7.00k Hyperref driver for XeTeX
+ (e:/TeX Live2021/texlive/2021/texmf-dist/tex/generic/stringenc/stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
+)
+\pdfm@box=\box71
+\c@Hy@AnnotLevel=\count347
+\HyField@AnnotCount=\count348
+\Fld@listcount=\count349
+\c@bookmark@seq@number=\count350
+ (e:/TeX Live2021/texlive/2021/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+ (e:/TeX Live2021/texlive/2021/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atvery package
+with kernel methods
+) (e:/TeX Live2021/texlive/2021/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 286.
+)
+\Hy@SectionHShift=\skip107
+) (e:/TeX Live2021/texlive/2021/texmf-dist/tex/latex/psnfss/pifont.sty
+Package: pifont 2020/03/25 PSNFSS-v9.3 Pi font support (SPQR) 
+LaTeX Font Info:    Trying to load font information for U+pzd on input line 63.
+ (e:/TeX Live2021/texlive/2021/texmf-dist/tex/latex/psnfss/upzd.fd
+File: upzd.fd 2001/06/04 font definitions for U/pzd.
+)
+LaTeX Font Info:    Trying to load font information for U+psy on input line 64.
+ (e:/TeX Live2021/texlive/2021/texmf-dist/tex/latex/psnfss/upsy.fd
+File: upsy.fd 2001/06/04 font definitions for U/psy.
+)) (e:/TeX Live2021/texlive/2021/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2020/02/24 v1.2b Standard LaTeX Color (DPC)
+ (e:/TeX Live2021/texlive/2021/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: xetex.def on input line 147.
+) (e:/TeX Live2021/texlive/2021/texmf-dist/tex/generic/soul/soul.sty
+Package: soul 2003/11/17 v2.4 letterspacing/underlining (mf)
+\SOUL@word=\toks34
+\SOUL@lasttoken=\toks35
+\SOUL@cmds=\toks36
+\SOUL@buffer=\toks37
+\SOUL@token=\toks38
+\SOUL@spaceskip=\skip108
+\SOUL@ttwidth=\dimen292
+\SOUL@uldp=\dimen293
+\SOUL@ulht=\dimen294
+) (e:/TeX Live2021/texlive/2021/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip109
+\bibsep=\skip110
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count351
+) (e:/TeX Live2021/texlive/2021/texmf-dist/tex/latex/psnfss/times.sty
+Package: times 2020/03/25 PSNFSS-v9.3 (SPQR) 
+)
+
+Package xeCJK Warning: Redefining CJKfamily `zhsong' (FandolSong-Regular).
+
+
+Package xeCJK Warning: Redefining CJKfamily `zhhei' (FandolHei-Regular).
+
+\c@theorem=\count352
+\c@definition=\count353
+\c@example=\count354
+Package newfloat Info: New float `figureEng' with options `fileext=lof2' on input line 708.
+\c@figureEng=\count355
+Package newfloat Info: float type `figureEng'=4 on input line 708.
+Package newfloat Info: \l@figureEng is already defined on input line 708.
+\c@lof2depth=\count356
+Package newfloat Info: New float `tableEng' with options `fileext=lot2' on input line 710.
+\c@tableEng=\count357
+Package newfloat Info: float type `tableEng'=8 on input line 710.
+Package newfloat Info: \l@tableEng is already defined on input line 710.
+\c@lot2depth=\count358
+(e:/TeX Live2021/texlive/2021/texmf-dist/tex/latex/notoccite/notoccite.sty
+Package: notoccite 2000/07/20
+))
+LaTeX Font Info:    Trying to load font information for TU+ptm on input line 95.
+LaTeX Font Info:    No file TUptm.fd. on input line 95.
+
+
+LaTeX Font Warning: Font shape `TU/ptm/m/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 95.
+
+(./Template.aux
+
+LaTeX Warning: Label `tab:exampletable' multiply defined.
+
+(e:/TeX Live2021/texlive/2021/texmf-dist/tex/generic/babel/locale/en/babel-english.tex
+Package babel Info: Importing basic data for english
+(babel)             from babel-en.ini. Reported on input line 11.
+)
+
+LaTeX Warning: Label `tab:exampletable' multiply defined.
+
+
+LaTeX Warning: Label `tab:exampletable' multiply defined.
+
+
+LaTeX Warning: Label `fig:logo' multiply defined.
+
+)
+\openout1 = `Template.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 95.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 95.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 95.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 95.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 95.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 95.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 95.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 95.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 95.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 95.
+LaTeX Font Info:    ... okay on input line 95.
+ ABD: EverySelectfont initializing macros
+LaTeX Info: Redefining \selectfont on input line 95.
+
+Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
+(fontspec)             this).
+
+\symlegacymaths=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 95.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 95.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 95.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 95.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 95.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 95.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 95.
+LaTeX Font Info:    Redeclaring math accent \check on input line 95.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 95.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 95.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 95.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 95.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 95.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 95.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 95.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 95.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 95.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 95.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 95.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 95.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 95.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 95.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 95.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 95.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `normal' on input line 95.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> TU/ptm/m/n on input line 95.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `bold' on input line 95.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> TU/ptm/m/n on input line 95.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  TU/ptm/m/n --> TU/ptm/m/n on input line 95.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> TU/ptm/m/it on input line 95.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> TU/ptm/b/n on input line 95.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> TU/phv/m/n on input line 95.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> TU/pcr/m/n on input line 95.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  TU/ptm/m/n --> TU/ptm/b/n on input line 95.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> TU/ptm/b/it on input line 95.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> TU/phv/b/n on input line 95.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> TU/pcr/b/n on input line 95.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+*geometry* verbose mode - [ preamble ] result:
+* driver: xetex
+* paper: custom
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(14.22636pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(71.13188pt, 455.24411pt, 71.13188pt)
+* v-part:(T,H,B)=(71.13188pt, 702.78308pt, 71.13188pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=455.24411pt
+* \textheight=702.78308pt
+* \oddsidemargin=13.08826pt
+* \evensidemargin=13.08826pt
+* \topmargin=-33.0119pt
+* \headheight=12.0pt
+* \headsep=19.8738pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=98.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: hyperref package is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: End \AtBeginDocument code.
+\c@lstlisting=\count359
+Package newfloat Info: Trying Plan B...
+Package newfloat Info: `float' package detected.
+Package hyperref Info: Link coloring OFF on input line 95.
+(e:/TeX Live2021/texlive/2021/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
+ (e:/TeX Live2021/texlive/2021/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+) (e:/TeX Live2021/texlive/2021/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count360
+)
+LaTeX Info: Redefining \ref on input line 95.
+LaTeX Info: Redefining \pageref on input line 95.
+LaTeX Info: Redefining \nameref on input line 95.
+ (./Template.out) (./Template.out)
+\@outlinefile=\write3
+\openout3 = `Template.out'.
+
+
+Package fontspec Info: Could not resolve font "SimHei/I" (it probably doesn't
+(fontspec)             exist).
+
+
+Package fontspec Info: Could not resolve font "SimHei/BI" (it probably doesn't
+(fontspec)             exist).
+
+
+Package fontspec Info: Could not resolve font "SimHei/I" (it probably doesn't
+(fontspec)             exist).
+
+
+Package fontspec Info: Font family 'SimHei(0)' created for font 'SimHei' with
+(fontspec)             options [Script={CJK},AutoFakeBold={3.17}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"SimHei/OT:script=hani;language=dflt;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"SimHei/OT:script=hani;language=dflt;embolden=3.17;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+
+
+
+LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
+(Font)              using `TU/ptm/m/n' instead on input line 95.
+
+
+Underfull \hbox (badness 10000) detected at line 95
+\TU/SimHei(0)/m/n/10.53937 论 文 编 号
+ []
+
+File: pic/logo-HBPU.png Graphic file (type bmp)
+<pic/logo-HBPU.png>
+
+LaTeX Font Warning: Font shape `OMX/cmex/m/n' in size <18.06749> not available
+(Font)              size <17.28> substituted on input line 95.
+
+
+LaTeX Font Warning: Font shape `OMX/cmex/m/n' in size <15.05624> not available
+(Font)              size <14.4> substituted on input line 95.
+
+[1
+
+]
+Underfull \hbox (badness 10000) detected at line 95
+\TU/SimHei(0)/m/n/10.53937 论 文 编 号
+ []
+
+
+Package fontspec Info: Could not resolve font "SimSun/I" (it probably doesn't
+(fontspec)             exist).
+
+
+Package fontspec Info: Could not resolve font "SimSun/BI" (it probably doesn't
+(fontspec)             exist).
+
+
+Package fontspec Info: Could not resolve font "SimSun/I" (it probably doesn't
+(fontspec)             exist).
+
+
+Package fontspec Info: Font family 'SimSun(0)' created for font 'SimSun' with
+(fontspec)             options [Script={CJK},AutoFakeBold={2.17}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"SimSun/OT:script=hani;language=dflt;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"SimSun/OT:script=hani;language=dflt;embolden=2.17;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+
+[2
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 95--95
+
+ []
+
+
+LaTeX Font Warning: Font shape `OMX/cmex/m/n' in size <10.53937> not available
+(Font)              size <10.95> substituted on input line 95.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 95--95
+
+ []
+
+[3
+
+]
+
+LaTeX Font Warning: Font shape `TU/ptm/m/sl' undefined
+(Font)              using `TU/ptm/m/it' instead on input line 95.
+
+
+LaTeX Font Warning: Font shape `TU/ptm/m/it' undefined
+(Font)              using `TU/ptm/m/n' instead on input line 95.
+
+File: pic/logo-HBPU.png Graphic file (type bmp)
+<pic/logo-HBPU.png>
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 24.25372pt, for example:
+(fancyhdr)                \setlength{\headheight}{24.25372pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-12.25372pt}.
+
+[1
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+LaTeX Font Warning: Font shape `TU/ptm/m/sl' undefined
+(Font)              using `TU/ptm/m/it' instead on input line 95.
+
+File: pic/logo-HBPU.png Graphic file (type bmp)
+<pic/logo-HBPU.png>
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 24.25372pt, for example:
+(fancyhdr)                \setlength{\headheight}{24.25372pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-12.25372pt}.
+
+[2
+
+]
+
+LaTeX Font Warning: Font shape `TU/ptm/m/sl' undefined
+(Font)              using `TU/ptm/m/it' instead on input line 95.
+
+File: pic/logo-HBPU.png Graphic file (type bmp)
+<pic/logo-HBPU.png>
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 24.25372pt, for example:
+(fancyhdr)                \setlength{\headheight}{24.25372pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-12.25372pt}.
+
+[3] (./Template.toc
+Underfull \vbox (badness 2495) has occurred while \output is active []
+
+
+
+LaTeX Font Warning: Font shape `TU/ptm/m/sl' undefined
+(Font)              using `TU/ptm/m/it' instead on input line 31.
+
+File: pic/logo-HBPU.png Graphic file (type bmp)
+<pic/logo-HBPU.png>
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 24.25372pt, for example:
+(fancyhdr)                \setlength{\headheight}{24.25372pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-12.25372pt}.
+
+[4
+
+
+])
+\tf@toc=\write4
+\openout4 = `Template.toc'.
+
+
+
+LaTeX Font Warning: Font shape `TU/ptm/m/sl' undefined
+(Font)              using `TU/ptm/m/it' instead on input line 95.
+
+File: pic/logo-HBPU.png Graphic file (type bmp)
+<pic/logo-HBPU.png>
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 24.25372pt, for example:
+(fancyhdr)                \setlength{\headheight}{24.25372pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-12.25372pt}.
+
+[5] (./tex/chap_intro.tex
+第一章
+
+Package hyperref Warning: Difference (3) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 3.
+
+Package newfloat Info: Setting Plan B file extension to `lof'... on input line 3.
+
+Package hyperref Warning: Difference (3) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 7.
+
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 16.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+LaTeX Font Warning: Font shape `TU/ptm/m/sl' undefined
+(Font)              using `TU/ptm/m/it' instead on input line 31.
+
+File: pic/logo-HBPU.png Graphic file (type bmp)
+<pic/logo-HBPU.png>
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 24.25372pt, for example:
+(fancyhdr)                \setlength{\headheight}{24.25372pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-12.25372pt}.
+
+[1
+
+
+]
+File: pic/logo-HBPU.png Graphic file (type bmp)
+<pic/logo-HBPU.png>
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 23.16966pt, for example:
+(fancyhdr)                \setlength{\headheight}{23.16966pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-11.16966pt}.
+
+[2]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+LaTeX Font Warning: Font shape `TU/ptm/m/sl' undefined
+(Font)              using `TU/ptm/m/it' instead on input line 111.
+
+File: pic/logo-HBPU.png Graphic file (type bmp)
+<pic/logo-HBPU.png>
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 24.25372pt, for example:
+(fancyhdr)                \setlength{\headheight}{24.25372pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-12.25372pt}.
+
+[3]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+File: pic/logo-HBPU.png Graphic file (type bmp)
+<pic/logo-HBPU.png>
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 23.16966pt, for example:
+(fancyhdr)                \setlength{\headheight}{23.16966pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-11.16966pt}.
+
+[4]) (./tex/chap_instruction.tex
+
+LaTeX Font Warning: Font shape `TU/ptm/m/sl' undefined
+(Font)              using `TU/ptm/m/it' instead on input line 3.
+
+File: pic/logo-HBPU.png Graphic file (type bmp)
+<pic/logo-HBPU.png>
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 24.25372pt, for example:
+(fancyhdr)                \setlength{\headheight}{24.25372pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-12.25372pt}.
+
+[5]
+第二章
+
+Package fontspec Warning: Font "FandolFang-Regular" does not contain requested
+(fontspec)                Script "CJK".
+
+LaTeX Font Info:    Trying to load font information for TU+pcr on input line 19.
+LaTeX Font Info:    No file TUpcr.fd. on input line 19.
+
+LaTeX Font Warning: Font shape `TU/pcr/m/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 19.
+
+
+Package fontspec Info: Font family 'FandolFang-Regular(0)' created for font
+(fontspec)             'FandolFang-Regular' with options
+(fontspec)             [Script={CJK},Extension={.otf}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[FandolFang-Regular.otf]/OT:language=dflt;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--25
+
+ []
+
+
+Overfull \hbox (45.4354pt too wide) in paragraph at lines 26--27
+[]\TU/FandolSong-Regular(0)/m/n/12.045 通 过 [][]\TU/pcr/m/n/12.045 \documentclass[ []<thesis>, []<permission>, []<printtype>, []<ostype>, []<ctexbookoptions>
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+File: pic/logo-HBPU.png Graphic file (type bmp)
+<pic/logo-HBPU.png>
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 23.16966pt, for example:
+(fancyhdr)                \setlength{\headheight}{23.16966pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-11.16966pt}.
+
+[6
+
+]
+Overfull \hbox (0.52997pt too wide) in paragraph at lines 43--53
+\TU/pcr/m/n/12.045 ifthen\TU/FandolSong-Regular(0)/m/n/12.045 ，| \TU/pcr/m/n/12.045 etoolbox\TU/FandolSong-Regular(0)/m/n/12.045 ，| \TU/pcr/m/n/12.045 titletoc\TU/FandolSong-Regular(0)/m/n/12.045 ，| \TU/pcr/m/n/12.045 remreset\TU/FandolSong-Regular(0)/m/n/12.045 ，| \TU/pcr/m/n/12.045 geometry\TU/FandolSong-Regular(0)/m/n/12.045 ，| \TU/pcr/m/n/12.045 fancyhdr\TU/FandolSong-Regular(0)/m/n/12.045 ，| \TU/pcr/m/n/12.045 setspace\TU/FandolSong-Regular(0)/m/n/12.045 ，| \TU/pcr/m/n/12.045 float\TU/FandolSong-Regular(0)/m/n/12.045 ，| \TU/pcr/m/n/12.045 graphicx\TU/FandolSong-Regular(0)/m/n/12.045 ，|
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+LaTeX Font Warning: Font shape `TU/ptm/m/sl' undefined
+(Font)              using `TU/ptm/m/it' instead on input line 101.
+
+File: pic/logo-HBPU.png Graphic file (type bmp)
+<pic/logo-HBPU.png>
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 24.25372pt, for example:
+(fancyhdr)                \setlength{\headheight}{24.25372pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-12.25372pt}.
+
+[7])
+Underfull \hbox (badness 10000) in paragraph at lines 120--114
+
+ []
+
+(./tex/chap_sample.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+File: pic/logo-HBPU.png Graphic file (type bmp)
+<pic/logo-HBPU.png>
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 23.16966pt, for example:
+(fancyhdr)                \setlength{\headheight}{23.16966pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-11.16966pt}.
+
+[8]
+
+LaTeX Font Warning: Font shape `TU/ptm/m/sl' undefined
+(Font)              using `TU/ptm/m/it' instead on input line 3.
+
+File: pic/logo-HBPU.png Graphic file (type bmp)
+<pic/logo-HBPU.png>
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 24.25372pt, for example:
+(fancyhdr)                \setlength{\headheight}{24.25372pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-12.25372pt}.
+
+[9]
+第三章
+
+Package natbib Warning: Citation `knuth86a' on page 10 undefined on input line 12.
+
+
+Package natbib Warning: Citation `knuth86a' on page 10 undefined on input line 13.
+
+
+Package natbib Warning: Citation `knuth86a' on page 10 undefined on input line 14.
+
+
+Package natbib Warning: Citation `knuth86a' on page 10 undefined on input line 15.
+
+
+Package natbib Warning: Citation `knuth86a' on page 10 undefined on input line 16.
+
+
+Package natbib Warning: Citation `knuth86a' on page 10 undefined on input line 17.
+
+
+Package natbib Warning: Citation `knuth86a' on page 10 undefined on input line 18.
+
+
+Package natbib Warning: Citation `knuth86a' on page 10 undefined on input line 19.
+
+
+Package natbib Warning: Citation `knuth86a' on page 10 undefined on input line 20.
+
+
+Package natbib Warning: Citation `knuth86a' on page 10 undefined on input line 24.
+
+
+Package natbib Warning: Citation `tlc2' on page 10 undefined on input line 24.
+
+
+Package natbib Warning: Citation `knuth86a' on page 10 undefined on input line 25.
+
+
+Package natbib Warning: Citation `tlc2' on page 10 undefined on input line 25.
+
+
+Package natbib Warning: Citation `knuth86a' on page 10 undefined on input line 26.
+
+
+Package natbib Warning: Citation `knuth84' on page 10 undefined on input line 26.
+
+
+Package natbib Warning: Citation `knuth86a' on page 10 undefined on input line 27.
+
+
+Package natbib Warning: Citation `knuth84' on page 10 undefined on input line 27.
+
+
+Package natbib Warning: Citation `knuth86a' on page 10 undefined on input line 28.
+
+
+Package natbib Warning: Citation `knuth84' on page 10 undefined on input line 28.
+
+
+Package natbib Warning: Citation `knuth86a' on page 10 undefined on input line 29.
+
+
+Package natbib Warning: Citation `knuth84' on page 10 undefined on input line 29.
+
+
+Package natbib Warning: Citation `knuth86a' on page 10 undefined on input line 30.
+
+
+Package natbib Warning: Citation `knuth84' on page 10 undefined on input line 30.
+
+
+Package natbib Warning: Citation `tlc2' on page 10 undefined on input line 30.
+
+
+Package natbib Warning: Citation `knuth86a' on page 10 undefined on input line 37.
+
+
+Package natbib Warning: Citation `knuth86a' on page 10 undefined on input line 38.
+
+
+Package natbib Warning: Citation `knuth84' on page 10 undefined on input line 38.
+
+
+Package natbib Warning: Citation `tlc2' on page 10 undefined on input line 38.
+
+
+Package natbib Warning: Citation `db' on page 10 undefined on input line 49.
+
+
+Package natbib Warning: Citation `knuth86a' on page 10 undefined on input line 50.
+
+
+Package natbib Warning: Citation `knuth86a' on page 10 undefined on input line 51.
+
+
+Package natbib Warning: Citation `knuth86a' on page 10 undefined on input line 52.
+
+
+Package natbib Warning: Citation `knuth86a' on page 10 undefined on input line 53.
+
+
+Package natbib Warning: Citation `knuth86a' on page 10 undefined on input line 54.
+
+
+Package natbib Warning: Citation `knuth86a' on page 10 undefined on input line 55.
+
+
+Package natbib Warning: Citation `knuth86a' on page 10 undefined on input line 56.
+
+
+Package natbib Warning: Citation `knuth86a' on page 10 undefined on input line 57.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+File: pic/logo-HBPU.png Graphic file (type bmp)
+<pic/logo-HBPU.png>
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 23.16966pt, for example:
+(fancyhdr)                \setlength{\headheight}{23.16966pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-11.16966pt}.
+
+[10
+
+]
+
+Package natbib Warning: Citation `knuth86a' on page 11 undefined on input line 61.
+
+
+Package natbib Warning: Citation `tlc2' on page 11 undefined on input line 61.
+
+
+Package natbib Warning: Citation `knuth86a' on page 11 undefined on input line 62.
+
+
+Package natbib Warning: Citation `tlc2' on page 11 undefined on input line 62.
+
+
+Package natbib Warning: Citation `knuth86a' on page 11 undefined on input line 63.
+
+
+Package natbib Warning: Citation `knuth84' on page 11 undefined on input line 63.
+
+
+Package natbib Warning: Citation `knuth86a' on page 11 undefined on input line 64.
+
+
+Package natbib Warning: Citation `knuth84' on page 11 undefined on input line 64.
+
+
+Package natbib Warning: Citation `knuth86a' on page 11 undefined on input line 65.
+
+
+Package natbib Warning: Citation `knuth84' on page 11 undefined on input line 65.
+
+
+Package natbib Warning: Citation `tlc2' on page 11 undefined on input line 73.
+
+
+Package natbib Warning: Citation `tlc2' on page 11 undefined on input line 74.
+
+
+Package natbib Warning: Citation `tlc2' on page 11 undefined on input line 75.
+
+
+Package natbib Warning: Citation `tlc2' on page 11 undefined on input line 76.
+
+
+Package natbib Warning: Citation `tlc2' on page 11 undefined on input line 77.
+
+
+Package natbib Warning: Citation `knuth86a' on page 11 undefined on input line 77.
+
+
+Package natbib Warning: Citation `tlc2' on page 11 undefined on input line 78.
+
+
+Package natbib Warning: Citation `tlc2' on page 11 undefined on input line 79.
+
+
+Package natbib Warning: Citation `tlc2' on page 11 undefined on input line 85.
+
+
+Package natbib Warning: Citation `tlc2' on page 11 undefined on input line 86.
+
+
+Package natbib Warning: Citation `tlc2' on page 11 undefined on input line 87.
+
+
+Package natbib Warning: Citation `tlc2' on page 11 undefined on input line 88.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+LaTeX Font Warning: Font shape `TU/ptm/m/sl' undefined
+(Font)              using `TU/ptm/m/it' instead on input line 97.
+
+File: pic/logo-HBPU.png Graphic file (type bmp)
+<pic/logo-HBPU.png>
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 24.25372pt, for example:
+(fancyhdr)                \setlength{\headheight}{24.25372pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-12.25372pt}.
+
+[11]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+File: pic/logo-HBPU.png Graphic file (type bmp)
+<pic/logo-HBPU.png>
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 23.16966pt, for example:
+(fancyhdr)                \setlength{\headheight}{23.16966pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-11.16966pt}.
+
+[12]
+
+LaTeX Font Warning: Font shape `TU/ptm/m/sl' undefined
+(Font)              using `TU/ptm/m/it' instead on input line 217.
+
+File: pic/logo-HBPU.png Graphic file (type bmp)
+<pic/logo-HBPU.png>
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 24.25372pt, for example:
+(fancyhdr)                \setlength{\headheight}{24.25372pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-12.25372pt}.
+
+[13]
+
+LaTeX Warning: Reference `tab:longtable' on page 14 undefined on input line 227.
+
+File: pic/logohbpu.png Graphic file (type bmp)
+<pic/logohbpu.png>
+Package hyperref Info: bookmark level for unknown figureEng defaults to 0 on input line 242.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+File: pic/logo-HBPU.png Graphic file (type bmp)
+<pic/logo-HBPU.png>
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 23.16966pt, for example:
+(fancyhdr)                \setlength{\headheight}{23.16966pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-11.16966pt}.
+
+[14]
+
+LaTeX Font Warning: Font shape `TU/ptm/m/sl' undefined
+(Font)              using `TU/ptm/m/it' instead on input line 321.
+
+File: pic/logo-HBPU.png Graphic file (type bmp)
+<pic/logo-HBPU.png>
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 24.25372pt, for example:
+(fancyhdr)                \setlength{\headheight}{24.25372pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-12.25372pt}.
+
+[15]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+File: pic/logo-HBPU.png Graphic file (type bmp)
+<pic/logo-HBPU.png>
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 23.16966pt, for example:
+(fancyhdr)                \setlength{\headheight}{23.16966pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-11.16966pt}.
+
+[16]
+\c@observation=\count361
+
+
+LaTeX Font Warning: Font shape `TU/ptm/m/sl' undefined
+(Font)              using `TU/ptm/m/it' instead on input line 445.
+
+File: pic/logo-HBPU.png Graphic file (type bmp)
+<pic/logo-HBPU.png>
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 24.25372pt, for example:
+(fancyhdr)                \setlength{\headheight}{24.25372pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-12.25372pt}.
+
+[17]) (./tex/chap_summary.tex
+File: pic/logo-HBPU.png Graphic file (type bmp)
+<pic/logo-HBPU.png>
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 23.16966pt, for example:
+(fancyhdr)                \setlength{\headheight}{23.16966pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-11.16966pt}.
+
+[18]
+第四章
+
+Package natbib Warning: Citation `knuth86a' on page 19 undefined on input line 12.
+
+
+Package natbib Warning: Citation `knuth86a' on page 19 undefined on input line 13.
+
+
+Package natbib Warning: Citation `knuth86a' on page 19 undefined on input line 14.
+
+
+Package natbib Warning: Citation `knuth86a' on page 19 undefined on input line 15.
+
+
+Package natbib Warning: Citation `knuth86a' on page 19 undefined on input line 16.
+
+
+Package natbib Warning: Citation `knuth86a' on page 19 undefined on input line 17.
+
+
+Package natbib Warning: Citation `knuth86a' on page 19 undefined on input line 18.
+
+
+Package natbib Warning: Citation `knuth86a' on page 19 undefined on input line 19.
+
+
+Package natbib Warning: Citation `knuth86a' on page 19 undefined on input line 20.
+
+
+Package natbib Warning: Citation `knuth86a' on page 19 undefined on input line 24.
+
+
+Package natbib Warning: Citation `tlc2' on page 19 undefined on input line 24.
+
+
+Package natbib Warning: Citation `knuth86a' on page 19 undefined on input line 25.
+
+
+Package natbib Warning: Citation `tlc2' on page 19 undefined on input line 25.
+
+
+Package natbib Warning: Citation `knuth86a' on page 19 undefined on input line 26.
+
+
+Package natbib Warning: Citation `knuth84' on page 19 undefined on input line 26.
+
+
+Package natbib Warning: Citation `knuth86a' on page 19 undefined on input line 27.
+
+
+Package natbib Warning: Citation `knuth84' on page 19 undefined on input line 27.
+
+
+Package natbib Warning: Citation `knuth86a' on page 19 undefined on input line 28.
+
+
+Package natbib Warning: Citation `knuth84' on page 19 undefined on input line 28.
+
+
+Package natbib Warning: Citation `knuth86a' on page 19 undefined on input line 29.
+
+
+Package natbib Warning: Citation `knuth84' on page 19 undefined on input line 29.
+
+
+Package natbib Warning: Citation `knuth86a' on page 19 undefined on input line 30.
+
+
+Package natbib Warning: Citation `knuth84' on page 19 undefined on input line 30.
+
+
+Package natbib Warning: Citation `tlc2' on page 19 undefined on input line 30.
+
+
+Package natbib Warning: Citation `knuth86a' on page 19 undefined on input line 37.
+
+
+Package natbib Warning: Citation `knuth86a' on page 19 undefined on input line 38.
+
+
+Package natbib Warning: Citation `knuth84' on page 19 undefined on input line 38.
+
+
+Package natbib Warning: Citation `tlc2' on page 19 undefined on input line 38.
+
+
+Package natbib Warning: Citation `db' on page 19 undefined on input line 49.
+
+
+Package natbib Warning: Citation `knuth86a' on page 19 undefined on input line 50.
+
+
+Package natbib Warning: Citation `knuth86a' on page 19 undefined on input line 51.
+
+
+Package natbib Warning: Citation `knuth86a' on page 19 undefined on input line 52.
+
+
+Package natbib Warning: Citation `knuth86a' on page 19 undefined on input line 53.
+
+
+Package natbib Warning: Citation `knuth86a' on page 19 undefined on input line 54.
+
+
+Package natbib Warning: Citation `knuth86a' on page 19 undefined on input line 55.
+
+
+Package natbib Warning: Citation `knuth86a' on page 19 undefined on input line 56.
+
+
+Package natbib Warning: Citation `knuth86a' on page 19 undefined on input line 57.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+LaTeX Font Warning: Font shape `TU/ptm/m/sl' undefined
+(Font)              using `TU/ptm/m/it' instead on input line 59.
+
+File: pic/logo-HBPU.png Graphic file (type bmp)
+<pic/logo-HBPU.png>
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 24.25372pt, for example:
+(fancyhdr)                \setlength{\headheight}{24.25372pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-12.25372pt}.
+
+[19
+
+]
+
+Package natbib Warning: Citation `knuth86a' on page 20 undefined on input line 61.
+
+
+Package natbib Warning: Citation `tlc2' on page 20 undefined on input line 61.
+
+
+Package natbib Warning: Citation `knuth86a' on page 20 undefined on input line 62.
+
+
+Package natbib Warning: Citation `tlc2' on page 20 undefined on input line 62.
+
+
+Package natbib Warning: Citation `knuth86a' on page 20 undefined on input line 63.
+
+
+Package natbib Warning: Citation `knuth84' on page 20 undefined on input line 63.
+
+
+Package natbib Warning: Citation `knuth86a' on page 20 undefined on input line 64.
+
+
+Package natbib Warning: Citation `knuth84' on page 20 undefined on input line 64.
+
+
+Package natbib Warning: Citation `knuth86a' on page 20 undefined on input line 65.
+
+
+Package natbib Warning: Citation `knuth84' on page 20 undefined on input line 65.
+
+
+Package natbib Warning: Citation `tlc2' on page 20 undefined on input line 73.
+
+
+Package natbib Warning: Citation `tlc2' on page 20 undefined on input line 74.
+
+
+Package natbib Warning: Citation `tlc2' on page 20 undefined on input line 75.
+
+
+Package natbib Warning: Citation `tlc2' on page 20 undefined on input line 76.
+
+
+Package natbib Warning: Citation `tlc2' on page 20 undefined on input line 77.
+
+
+Package natbib Warning: Citation `knuth86a' on page 20 undefined on input line 77.
+
+
+Package natbib Warning: Citation `tlc2' on page 20 undefined on input line 78.
+
+
+Package natbib Warning: Citation `tlc2' on page 20 undefined on input line 79.
+
+
+Package natbib Warning: Citation `tlc2' on page 20 undefined on input line 85.
+
+
+Package natbib Warning: Citation `tlc2' on page 20 undefined on input line 86.
+
+
+Package natbib Warning: Citation `tlc2' on page 20 undefined on input line 87.
+
+
+Package natbib Warning: Citation `tlc2' on page 20 undefined on input line 88.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+File: pic/logo-HBPU.png Graphic file (type bmp)
+<pic/logo-HBPU.png>
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 23.16966pt, for example:
+(fancyhdr)                \setlength{\headheight}{23.16966pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-11.16966pt}.
+
+[20]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Font Warning: Font shape `TU/ptm/m/sl' undefined
+(Font)              using `TU/ptm/m/it' instead on input line 205.
+
+File: pic/logo-HBPU.png Graphic file (type bmp)
+<pic/logo-HBPU.png>
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 24.25372pt, for example:
+(fancyhdr)                \setlength{\headheight}{24.25372pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-12.25372pt}.
+
+[21]
+File: pic/logo-HBPU.png Graphic file (type bmp)
+<pic/logo-HBPU.png>
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 23.16966pt, for example:
+(fancyhdr)                \setlength{\headheight}{23.16966pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-11.16966pt}.
+
+[22]
+
+LaTeX Warning: Reference `tab:longtable' on page 23 undefined on input line 227.
+
+File: pic/logohbpu.png Graphic file (type bmp)
+<pic/logohbpu.png>
+
+Underfull \vbox (badness 6141) has occurred while \output is active []
+
+
+
+LaTeX Font Warning: Font shape `TU/ptm/m/sl' undefined
+(Font)              using `TU/ptm/m/it' instead on input line 268.
+
+File: pic/logo-HBPU.png Graphic file (type bmp)
+<pic/logo-HBPU.png>
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 24.25372pt, for example:
+(fancyhdr)                \setlength{\headheight}{24.25372pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-12.25372pt}.
+
+[23]
+File: pic/logo-HBPU.png Graphic file (type bmp)
+<pic/logo-HBPU.png>
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 23.16966pt, for example:
+(fancyhdr)                \setlength{\headheight}{23.16966pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-11.16966pt}.
+
+[24]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+LaTeX Font Warning: Font shape `TU/ptm/m/sl' undefined
+(Font)              using `TU/ptm/m/it' instead on input line 388.
+
+File: pic/logo-HBPU.png Graphic file (type bmp)
+<pic/logo-HBPU.png>
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 24.25372pt, for example:
+(fancyhdr)                \setlength{\headheight}{24.25372pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-12.25372pt}.
+
+[25]
+\c@observation1=\count362
+File: pic/logo-HBPU.png Graphic file (type bmp)
+<pic/logo-HBPU.png>
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 23.16966pt, for example:
+(fancyhdr)                \setlength{\headheight}{23.16966pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-11.16966pt}.
+
+[26])
+
+LaTeX Font Warning: Font shape `TU/ptm/m/sl' undefined
+(Font)              using `TU/ptm/m/it' instead on input line 126.
+
+File: pic/logo-HBPU.png Graphic file (type bmp)
+<pic/logo-HBPU.png>
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 24.25372pt, for example:
+(fancyhdr)                \setlength{\headheight}{24.25372pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-12.25372pt}.
+
+[27]
+No file Template.bbl.
+(./tex/chap_appendix.tex) (./tex/chap_acknowledge.tex
+File: pic/logo-HBPU.png Graphic file (type bmp)
+<pic/logo-HBPU.png>
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 23.16966pt, for example:
+(fancyhdr)                \setlength{\headheight}{23.16966pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-11.16966pt}.
+
+[28
+
+])
+
+Package natbib Warning: There were undefined citations.
+
+
+LaTeX Font Warning: Font shape `TU/ptm/m/sl' undefined
+(Font)              using `TU/ptm/m/it' instead on input line 141.
+
+File: pic/logo-HBPU.png Graphic file (type bmp)
+<pic/logo-HBPU.png>
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 24.25372pt, for example:
+(fancyhdr)                \setlength{\headheight}{24.25372pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-12.25372pt}.
+
+[29
+
+] (./Template.aux)
+
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 0.78749pt have occurred.
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package rerunfilecheck Info: File `Template.out' has not changed.
+(rerunfilecheck)             Checksum: 7A483CB4EE552B2717879F549C27B5B2;5382.
+ ) 
+Here is how much of TeX's memory you used:
+ 22437 strings out of 478866
+ 468012 string characters out of 5864252
+ 833021 words of memory out of 5000000
+ 41859 multiletter control sequences out of 15000+600000
+ 413617 words of font info for 112 fonts, out of 8000000 for 9000
+ 36 hyphenation exceptions out of 8191
+ 115i,13n,118p,1235b,688s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on Template.pdf (37 pages).
