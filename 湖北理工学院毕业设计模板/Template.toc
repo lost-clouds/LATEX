@@ -58,4 +58,5 @@
 \contentsline {subsection}{\numberline {4.6.3}自定义}{26}{subsection.130}%
 \contentsline {chapter}{参考文献}{28}{section*.134}%
 \contentsline {chapter}{致~~~~谢}{29}{appendix*.140}%
+\contentsline {chapter}{在读期间发表论文}{30}{appendix*.141}%
 \contentsfinish 

@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.11.17)  31 MAY 2023 10:46
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.11.17)  31 MAY 2023 12:10
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1924,13 +1924,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [28
 
-])
-
-Package natbib Warning: There were undefined citations.
-
+]) (./tex/chap_achievement.tex
 
 LaTeX Font Warning: Font shape `TU/ptm/m/sl' undefined
-(Font)              using `TU/ptm/m/it' instead on input line 141.
+(Font)              using `TU/ptm/m/it' instead on input line 3.
 
 File: pic/logo-HBPU.png Graphic file (type bmp)
 <pic/logo-HBPU.png>
@@ -1942,6 +1939,21 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-12.25372pt}.
 
 [29
+
+])
+
+Package natbib Warning: There were undefined citations.
+
+File: pic/logo-HBPU.png Graphic file (type bmp)
+<pic/logo-HBPU.png>
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 23.16966pt, for example:
+(fancyhdr)                \setlength{\headheight}{23.16966pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-11.16966pt}.
+
+[30
 
 ] (./Template.aux)
 
@@ -1958,15 +1970,15 @@ LaTeX Warning: There were undefined references.
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `Template.out' has not changed.
-(rerunfilecheck)             Checksum: 7A483CB4EE552B2717879F549C27B5B2;5382.
+(rerunfilecheck)             Checksum: 834F08BD1848BAC081521510CCC1A0D9;5503.
  ) 
 Here is how much of TeX's memory you used:
- 22437 strings out of 478866
- 468012 string characters out of 5864252
+ 22441 strings out of 478866
+ 468102 string characters out of 5864252
  833021 words of memory out of 5000000
- 41859 multiletter control sequences out of 15000+600000
+ 41860 multiletter control sequences out of 15000+600000
  413617 words of font info for 112 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
  115i,13n,118p,1235b,688s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on Template.pdf (37 pages).
+Output written on Template.pdf (38 pages).
